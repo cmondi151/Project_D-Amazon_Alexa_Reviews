@@ -25,4 +25,3 @@ Both models predicted the correct rating ~70% cases -
 
 ----
 Kaggle Link: https://www.kaggle.com/sid321axn/amazon-alexa-reviews
-
